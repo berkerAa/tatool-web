@@ -641,7 +641,7 @@
                 "name": "uzh-ef-battery",
                 "access": "public"
               },
-              "resourceName": "shifting_num_single_magnitude_05.htm",
+              "resourceName": "tr_shifting_num_single_magnitude_05.htm",
               "resourceType": "instructions"
             },
             {
@@ -650,7 +650,7 @@
                 "access": "public"
               },
               "resourceType": "instructions",
-              "resourceName": "shifting_num_single_magnitude_06.htm"
+              "resourceName": "tr_shifting_num_single_magnitude_06.htm"
             }
           ]
         },
@@ -740,7 +740,7 @@
                 "name": "uzh-ef-battery",
                 "access": "public"
               },
-              "resourceName": "shifting_num_single_parity_05.htm",
+              "resourceName": "tr_shifting_num_single_parity_05.htm",
               "resourceType": "instructions"
             },
             {
@@ -749,7 +749,7 @@
                 "access": "public"
               },
               "resourceType": "instructions",
-              "resourceName": "shifting_num_single_parity_06.htm"
+              "resourceName": "tr_shifting_num_single_parity_06.htm"
             }
           ]
         },
